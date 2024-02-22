@@ -1,0 +1,6 @@
+sudo ufw enable
+sudo ufw allow 22
+sudo ufw allow 4000
+sudo ufw allow 5353
+sudo ufw allow 47250
+sudo ufw
